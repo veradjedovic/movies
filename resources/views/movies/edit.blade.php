@@ -26,7 +26,7 @@
                     <div class="card-body">
                         <div class="form-group">
                             <label for="year">Year *</label>
-                            <input type="number" class="form-control" id="year" min="1900" max="2018" step="1" value="" name="year" />
+                            <input type="number" class="form-control" id="year" min="1901" max="2018" step="1" value="" name="year" />
                         </div>
                     </div>
 

@@ -27,7 +27,7 @@
                                         </select>
                                     </td>
                                     <td>
-                                        <input type="number" min="1900" max="2018" step="1" value="2018" name="year" />
+                                        <input type="number" min="1901" max="2018" step="1" value="2018" name="year" />
                                     </td>
                                     <td><input id="submit-movie" class="btn btn-info" type="submit" name="btn_insert_movie" value="Add New Movie"></td>
                                 </tr>
